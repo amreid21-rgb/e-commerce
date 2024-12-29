@@ -2,7 +2,7 @@
   "name": "e-commerce",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://amreid21-rgb.github.io/E-commerce-main",
+  "homepage": "https://amreid21-rgb.github.io/e-commerce",
   "type": "module",
   "scripts": {
     "dev": "vite",
